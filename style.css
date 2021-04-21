@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Original Surfer', cursive!important;
+}
+.whatstapp{
+	position: fixed;
+    width: 16%;
+    right: 10px;
+    bottom: 39px;
+}
+.header_img img {
+    width: 100%;
+}
+.show{
+	line-height: 19px;
+}
+section {}
+
+.startbtn {
+       width: 50%;
+    padding: 10px;
+    background-color: rgb(255 255 255);
+    color: rgb(0 0 0);
+    font-size: 26px;
+    border: 1px solid rgb(128 128 128 / 21%);
+    padding: 10px;
+    border-radius: 53px;
+    box-shadow: 0px 9px 27px 4px #80808029;
+}
+
+.qutaion {
+    display: none;
+    padding-bottom: 295px!important;
+}
+
+p {
+    font-size: 23px;
+    padding: 10px;
+    color: rgb(254 176 26);
+}
+
+.color_black {
+    color: black;
+}
+
+span {
+    font-size: 18px;
+    font-weight: 900;
+    color: black;
+}
+
+.questions>input {
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-bottom: 4px dotted rgb(0 0 0)
+}
+
+.blur,
+.qutaion {
+    backdrop-filter: blur(11px);
+    color: rgb(255 255 255);
+    padding: 10px;
+    backdrop-filter: blur(11px);
+    color: rgb(255 255 255);
+    padding: 10px;
+    padding: 120px 10px;
+}
+
+.name01 {
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+    border: none;
+    border-radius: 33px;
+    color: rgb(0 0 0);
+    font-size: 20px;
+}
+
+.qutaion {
+    background-image: url(bg-3.jpg);
+}
+
+.bg-2,
+.qutaion {
+    background-image: url(bg-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
